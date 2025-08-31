@@ -1,4 +1,4 @@
-package basic.oop;
+package basic.oop.excercises;
 
 public class AccessModifiersExercises {
 
